@@ -1,7 +1,7 @@
 # BreastCancer-Diagnossis
-Challenge to create a predictor using logistic regression, random forests, and support vector machines.
+- Challenge to create a predictor using logistic regression, random forests, and support vector machines.
 
-・Classification of cancer cells using the Breast Cancer Wisconsin (Diagnostic) Data Set.
+- Classification of cancer cells using the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
 ## Check
 - R 3.6.1 
@@ -11,7 +11,7 @@ Challenge to create a predictor using logistic regression, random forests, and s
 - pROC
 
 ## Result
-AUC train data & test data
+pred.r -> AUC(train & test)
 |                         |     train     |     test      | 
 | ----------------------- | ------------- | ------------- |
 |  Logistic Regression    |     0.968     |     0.986     |
