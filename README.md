@@ -3,9 +3,14 @@ Challenge to create a predictor using logistic regression, random forests, and s
 
 ・Classification of cancer cells using the Breast Cancer Wisconsin (Diagnostic) Data Set.
 
+## Check
+- R 3.6.1 
+- glm
+- randomForest
+- kernlab
+- pROC
 
-
-## result
+## Result
 AUC train data & test data
 |                         |     train     |     test      | 
 | ----------------------- | ------------- | ------------- |
