@@ -1,3 +1,4 @@
+# Logistic Regression
 wdbc <- read.csv("./data/wdbc.csv")
 
 d_s <- data.frame(scale(wdbc[c("texture","smoothness")]),wdbc[c("diagnosis")])
